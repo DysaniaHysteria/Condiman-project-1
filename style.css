@@ -58,10 +58,8 @@ h1, h2, h3, p { margin-top: 0; }
 .orbit-one { width: 355px; height: 200px; top: 129px; left: 40px; }
 .orbit-two { width: 390px; height: 270px; top: 84px; left: 4px; transform: rotate(38deg); }
 .art-blob { position: absolute; width: 240px; height: 160px; bottom: 54px; left: 80px; background: #829274; border-radius: 56% 44% 61% 39% / 57% 47% 53% 43%; transform: rotate(-21deg); }
-<<<<<<< HEAD
 .profile-frame { position: absolute; z-index: 3; bottom: 34px; left: 50%; display: grid; place-items: center; width: min(66%, 270px); height: 340px; overflow: hidden; transform: translateX(-50%); border: 6px solid var(--paper); border-radius: 140px 140px 3px 3px; background: #fff; box-shadow: 0 16px 35px #34402c24; }
 .profile-photo { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
-=======
 .art-flower { position: absolute; width: 100px; height: 100px; z-index: 3; }
 .art-flower i { position: absolute; width: 36px; height: 55px; border-radius: 50%; background: #f1eee1; left: 32px; top: 0; transform-origin: 50% 50px; }
 .art-flower i:nth-child(2) { transform: rotate(72deg); }
@@ -71,7 +69,6 @@ h1, h2, h3, p { margin-top: 0; }
 .art-flower b { position: absolute; width: 22px; height: 22px; top: 39px; left: 39px; border-radius: 50%; background: #d99a57; }
 .flower-one { top: 142px; left: 137px; transform: scale(.85); }
 .flower-two { top: 263px; right: 44px; transform: scale(.58) rotate(23deg); }
->>>>>>> 9492b7f6f9c4c64d32e392512883a4fe46c6a1c8
 .art-star { position: absolute; z-index: 3; font-size: 27px; color: #f4ede0; }
 .star-one { top: 88px; left: 85px; }
 .star-two { bottom: 100px; right: 133px; font-size: 19px; color: #f7c09a; }
@@ -156,10 +153,7 @@ h1, h2, h3, p { margin-top: 0; }
   .hero-art { height: 350px; }
   .art-sun { width: 115px; height: 115px; right: 35px; }
   .art-blob { width: 195px; left: 35px; }
-<<<<<<< HEAD
   .profile-frame { height: 270px; width: min(65%, 230px); bottom: 28px; }
-=======
->>>>>>> 9492b7f6f9c4c64d32e392512883a4fe46c6a1c8
   .about-grid { grid-template-columns: 1fr; gap: 30px; }
   .section { padding-top: 78px; padding-bottom: 78px; }
   .services-grid { grid-template-columns: 1fr; gap: 38px; }
@@ -178,10 +172,7 @@ h1, h2, h3, p { margin-top: 0; }
   .hero h1 { font-size: clamp(53px, 14vw, 72px); letter-spacing: -4px; }
   .hero-intro { font-size: 13px; }
   .hero-art { height: 330px; }
-<<<<<<< HEAD
   .profile-frame { height: 260px; width: min(68%, 230px); }
-=======
->>>>>>> 9492b7f6f9c4c64d32e392512883a4fe46c6a1c8
   .scroll-note { bottom: 27px; }
   .hero-actions { gap: 17px; }
   .button { padding: 14px; gap: 15px; }
